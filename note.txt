@@ -1,0 +1,1 @@
+In this folder you would put your data. Currently expects a json-lines file, however most code wont work and will need to be customized based on your data structure.
